@@ -29,7 +29,7 @@ echo "
 echo
 
 echo -e "\e[31m[++] Script Running....... 🚀🚀\e[0m"
-
+echo
 mkdir open-source-nuclei-templates
 
 cd open-source-nuclei-templates
