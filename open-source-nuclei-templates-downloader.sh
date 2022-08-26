@@ -50,7 +50,7 @@ mv nuclei_templates nuclei_templates-2
 git clone https://github.com/blazeinfosec/nuclei-templates.git
 mv nuclei-templates nuclei-templates-3
 git clone https://github.com/c-sh0/nuclei_templates
-mv nuclei-templates nuclei_templates-4
+mv nuclei_templates nuclei_templates-4
 git clone https://github.com/javaongsan/nuclei-templates
 mv nuclei-templates nuclei-templates-5
 git clone https://github.com/panch0r3d/nuclei-templates
