@@ -5,7 +5,11 @@
 
 * Just type this command
 
-`bash open-source-nuclei-templates-downloader.sh`
+```sh
+wget https://raw.githubusercontent.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader/main/setup.sh; bash setup.sh
+```
+
+`Note: It Requires Pre-Installed Nuclei & All Templates Will Be Installed In Current User's Home Directory ($HOME/nuclei-templates/custom)`
 
 ⭐ For Now this script download 37+ Open source Nuclei Templates
 
